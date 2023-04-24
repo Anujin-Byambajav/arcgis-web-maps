@@ -4,6 +4,6 @@
 
 Users can zoom in and out of the map to explore different regions of the world and click on individual earthquake locations to see more detailed information about each event, such as its name, magnitude, and date. The map also includes a time slider that enables users to visualize how earthquake activity has varied over the past several decades. <br>
 
-The earthquake data is symbolized using SimpleRenderer to simply show the locations of the feature on the map. <br>
+The earthquake data is symbolized using SimpleRenderer to simply show the locations of the features on the map. <br>
 
 This web map will help the users easily access and visually explore the frequency and location of earthquakes around the world since 1970.
