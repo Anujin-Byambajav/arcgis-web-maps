@@ -1,6 +1,6 @@
 # arcgis-web-maps
 
-**ArcGIS Web Maps**
+**ArcGIS Web Maps** <br>
 The projects below are collections of web maps that showcase various aspects of geography and spatial analysis. The maps are built using ArcGIS Online and can be accessed online from any device.
 
 **Purpose**
