@@ -7,5 +7,3 @@ Users can zoom in and out of the map to explore different regions of the world a
 The earthquake data is symbolized using SimpleRenderer to simply show the locations of the features on the map. <br>
 
 This web map will help the users easily access and visually explore the frequency and location of earthquakes around the world since 1970.
-
-![images](earthquake1970.png)
