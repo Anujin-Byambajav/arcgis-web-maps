@@ -8,7 +8,4 @@ The earthquake data is symbolized using SimpleRenderer to simply show the locati
 
 This web map will help the users easily access and visually explore the frequency and location of earthquakes around the world since 1970.
 
-<div class="col-4 col-5-large col-12-medium">
-            <span class="image fit"
-              ><img src="images/earthquake1970.jpg" alt=""
-            /></span></div>
+![images]("C:\Users\anuji\OneDrive\Documents\github\arcgis-web-maps\arcgis-web-maps\webmap-earthquake-1970\images\earthquake1970.png")
